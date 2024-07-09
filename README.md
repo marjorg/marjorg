@@ -1,5 +1,5 @@
 ### Heyo. I'm Marius
-I’m currently working at **Schibsted SMB**. I also work on [**Yello.io**](https://yello.io). Previously at: [**Mentra**](https://mentra.co/)
+I’m currently working at [**Schibsted SMB**](https://github.com/schibsted-smb). Previously at: [**Mentra**](https://mentra.co/), [**Yello.io**](https://yello.io).
 
 
 ---
