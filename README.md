@@ -4,4 +4,3 @@ I’m currently working at [**Schibsted SMB**](https://github.com/schibsted-smb)
 
 ---
 
-## Contributing
